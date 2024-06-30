@@ -1,0 +1,44 @@
+.hero-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .name {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .title {
+    font-size: 1.5em;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .tagline {
+    font-size: 1.2em;
+    margin: 20px 0;
+    color: #333;
+  }
+  
+  .short-bio {
+    font-size: 1em;
+    margin: 20px 0;
+    color: #666;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #0056b3;
+  }
+  
